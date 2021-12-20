@@ -1,4 +1,4 @@
-''' Add C++ Syntax Highliting to google colab with support of magic words
+### Add C++ Syntax Highliting to google colab with support of magic words
 
 import subprocess
 import os
