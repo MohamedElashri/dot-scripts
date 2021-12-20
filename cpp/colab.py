@@ -14,9 +14,6 @@ def print_out(out: str):
         print(l)
 
 def displayHTML(html_code):
-    '''
-    Display HTML in notebook
-    '''
     display(HTML(html_code))
 
 @magics_class
